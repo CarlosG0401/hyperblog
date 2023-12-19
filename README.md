@@ -12,3 +12,4 @@ Un blog increible para el curso de Platzi
 *Trucos muy locos por el profesor
 *Creado por el increible Platzi Team
 *Incluye ejemplos en Windows, Linux y Mac
+*Disponible para todas las edades
