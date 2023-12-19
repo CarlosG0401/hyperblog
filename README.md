@@ -11,3 +11,4 @@ Un blog increible para el curso de Platzi
 *El verdadero amor por las buenas prácticas
 *Trucos muy locos por el profesor
 *Creado por el increible Platzi Team
+*Incluye ejemplos en Windows, Linux y Mac
