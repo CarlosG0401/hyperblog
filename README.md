@@ -5,9 +5,9 @@ Un blog increible para el curso de Platzi
 
 
 
-En este curso vemos de todo
+##En este curso vemos de todo
 *Todos los comandos de Git
 *El flujo de trabajo en Github
 *El verdadero amor por las buenas prácticas
 *Trucos muy locos por el profesor
-
+*Creado por el increible Platzi Team
